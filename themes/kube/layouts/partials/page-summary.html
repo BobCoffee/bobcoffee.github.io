@@ -1,0 +1,13 @@
+<div>
+	<a href="{{ .Permalink }}" itemprop="headline">
+	<img src="{{ .Params.image }}">
+	<div class="post">
+	    <h3 class="title">
+	        {{ .Title }}
+	    </h3>
+	    {{ if .Description }}
+	    <p>{{ .Description }}</p>
+    </div>
+    </a>
+    {{ end }}
+</div>

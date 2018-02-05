@@ -1,0 +1,25 @@
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+<div id="main">
+  <div id="hero">
+    <h1>Documentation</h1>
+  </div>
+  <div id="components">
+    <div id="media-grid">
+      {{ range .Data.Pages.ByWeight }}
+      <div>
+        <a href="{{ .Permalink }}">
+        <img src="{{ .Params.image }}">
+        <h4>{{ .Title }}</h4>
+        <p>{{ .Params.description }}</p>
+        </a>
+      </div>
+      {{ end }}
+
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{ define "footer"}} {{ partial "footer" .}} {{end}}

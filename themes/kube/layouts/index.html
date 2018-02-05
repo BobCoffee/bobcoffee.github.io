@@ -1,0 +1,32 @@
+{{ define "title"}} {{ .Site.Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+<div class="title-color">
+  <div id="main">
+    <div id="hero" class="hero-space">
+      <h1 class="home-title">{{.Title}}</h1>
+      <h3 class="home-title">{{.Description}}</h3>
+    </div>
+  </div>
+</div>
+<div id="main">  
+  <div id="components" class="body-space">
+    <div class="row gutters auto">
+      {{ range where .Data.Pages "Section" "work" }}
+      <div class="col col-5 item">
+        <a href="{{ .Permalink }}">
+        <img src="{{ .Params.image }}">
+        <div class="post-text">
+          <h4>{{ .Title }}</h4>
+          <p>{{ .Params.description }}</p>
+          </a>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+
+{{ end }}
+
+{{ define "footer"}}{{ partial "footer" .}} 
+{{end}}

@@ -11,6 +11,9 @@
 if (typeof jQuery === 'undefined') {throw new Error('Kube\'s requires jQuery')};
 ;(function($) { var version = $.fn.jquery.split('.'); if (version[0] == 1 && version[1] < 8) {throw new Error('Kube\'s requires at least jQuery v1.8'); }})(jQuery);
 
+
+
+
 ;(function()
 {
     // Inherits

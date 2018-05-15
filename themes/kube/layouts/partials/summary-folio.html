@@ -1,0 +1,11 @@
+<div class="col col-6 item">
+  <a href="{{ .Permalink }}">
+  <img src="{{ .Params.image }}">
+    <div class="post-text">
+      <h4>{{ .Title }}</h4>
+      {{ if $.Param "brief" }}
+      <p>{{ $.Param "brief" | safeHTML | truncate 300 }}</p>
+      {{ end }}
+    </div>
+  </a>
+</div>

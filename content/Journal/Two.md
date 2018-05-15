@@ -4,9 +4,9 @@ image = "/img/VicAlpine-3.jpg"
 title = "This is the title that gets pretty long"
 tags = ["markdown","example"]
 categories = ["general"]
-draft = false
+draft = true
 description = "This article is just a demo post and shows you the style of common used elements writing in pure markdown without HTML code."
-weight = 10
+weight = 0
 +++
 
 # Welcome to Kube – an open source documentation like theme for Hugo
@@ -39,7 +39,7 @@ Cake jelly-o chocolate cake sugar plum carrot cake lollipop bonbon. Jelly beans 
 Ice cream icing chupa chups cupcake jelly-o candy. Croissant jujubes topping tart soufflé pudding. Cheesecake caramels icing.
 
 1.  Drops marzipan icing. Dessert topping croissant fruitcake sesame snaps cotton candy sweet danish
-*   Sweet roll sweet sugar plum donut 
+*   Sweet roll sweet sugar plum donut
     *   Bear claw gingerbread cake donut chocolate bar
     *   Topping cake fruitcake fruitcake
 3.  Ice cream icing chupa chups cupcake jelly-o candy
@@ -66,7 +66,7 @@ Apple pie chocolate cake jelly-o icing bonbon. Gingerbread pastry fruitcake muff
 Brownie oat cake tart caramels croissant lollipop pastry soufflé lemon drops. Cotton candy pastry ice cream fruitcake tiramisu jelly beans dragée.
 
 > Jelly beans dessert toffee caramels brownie ice cream croissant chupa chups liquorice. Danish sweet roll croissant. Powder sugar plum powder danish wafer cake.
-> 
+>
 > Candy jelly beans jujubes muffin. Bear claw danish chocolate lollipop soufflé jelly.
 
 Cake soufflé icing gingerbread topping jujubes. Chocolate cake pudding sweet biscuit cake. Soufflé tart topping gummi bears jujubes lollipop ice cream pudding.
@@ -82,5 +82,3 @@ Macaroon jelly toffee cheesecake muffin lollipop dragée cake gummies. Cotton ca
 * * *
 
 Apple pie chocolate cake jelly-o icing bonbon. Gingerbread pastry fruitcake muffin chocolate bar cheesecake. Sugar plum bonbon bonbon lemon drops gummies. Brownie oat cake tart caramels croissant lollipop pastry soufflé lemon drops. Jelly beans dessert toffee caramels brownie ice cream croissant chupa chups liquorice. Danish sweet roll croissant. Powder sugar plum powder danish wafer cake. Candy jelly beans jujubes muffin. Bear claw danish chocolate lollipop soufflé jelly.
-
-

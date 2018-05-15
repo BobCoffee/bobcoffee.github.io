@@ -1,22 +1,22 @@
   <footer id="footer">
-    <nav>
+    <div class="footer container">
+      <div class="row gutters">
+    <div class=" col col-4">
+    <h4>&copy; Bob Coffee</h4>
+    <p>Designed and developed by yours truely using <a target="_blank" href="http://gohugo.io/">Hugo</a> and <a target="_blank" href="http://kube.elemnts.org/">Kube</a> frameworks.</p>
+    </div>
+    <div class="col col-8">
+    <nav class="left">
       <ul>
-        <li><span>Kube</span></li>
         <li>
-          <a href="/company/">Company</a>
+          <a target="_blank" href="https://linkedin.com/in/{{.Site.Params.linkedin}}">Linked In</a>
         </li>
         <li>
-          <a href="/blog/">Blog</a>
-        </li>
-          <li>
-          <a href="/docs/">Docs</a>
-        </li>
-        <li>
-          <a href="https://twitter.com/{{.Site.Params.twitter}}">Give a shout-out on Twitter!</a>
+          <a href="mailto:{{.Site.Params.email}}">{{.Site.Params.email}}</a>
         </li>
       </ul>
     </nav>
-    <h6>&copy; Bob Coffee</h6>
-    <p>Designed and developed by yours truely using <a href="http://gohugo.io/">Hugo</a> using <a href="http://kube.elemnts.org/">Kube</a>Framework</p>
-
+    </div>
+</div>
+</div>
   </footer>

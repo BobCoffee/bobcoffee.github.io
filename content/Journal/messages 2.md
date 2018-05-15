@@ -1,11 +1,11 @@
 +++
 date = "2017-04-10T16:41:34+01:00"
 image = "/img/VicAlpine-8.jpg"
-draft = false
-weight = 90
+draft = true
+weight = 0
 description = "Versatile and refined messages, ideal for daily use"
 title = "Messages"
-bref = "Messages are an essential part of modern web and messages in Kube look nice"
+brief = "Messages are an essential part of modern web and messages in Kube look nice"
 +++
 
 <h3 class="section-head" id="h-usage"><a href="#h-usage">Usage</a></h3>

@@ -1,11 +1,10 @@
 +++
 date = "2017-04-10T16:42:50+01:00"
 image = "/img/door.jpg"
-draft = false
-weight = 180
+draft = true
 description = "Smoothly and reliably collapse elements for extra convenience"
 title = "Collapse"
-bref = "A demo to collapsable elements"
+brief = "A demo to collapsable elements"
 
 +++
 

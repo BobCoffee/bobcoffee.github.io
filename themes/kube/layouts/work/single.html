@@ -1,0 +1,12 @@
+{{ define "title"}} {{ .Title}} {{end}} {{ define "header"}} {{ partial "header" .}} {{end}} {{ define "main"}}
+<div class="push-center" itemscope itemtype="http://schema.org/BlogPosting">
+  {{ template "_internal/schema.html" . }} {{ partial "banner-post" .}}
+</div>
+<div id="main" itemprop="articleBody">
+  {{.Content | safeHTML}}
+</div>
+
+  {{ partial "post/signoff" . }}
+  {{ partial "post/byauthor" . }}
+  {{ partial "post/related-content" . }}
+{{ end }} {{ define "footer"}} {{ partial "footer.html" .}} {{ end }}

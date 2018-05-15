@@ -1,9 +1,9 @@
 +++
 title = "Getting around issues using sketch"
-weight = 25
-draft = false
+weight = 0
+draft = true
 description = "Always precise spacing and perfect font size"
-bref = "Typography is perhaps one of the most important and most visible things on a web page. Even slightest imperfection can ruin otherwise perfect website. With Kube, you will have perfect typography with ideal spacing, font sizes and proportions, regardless of the exact style or font you choose for your site."
+brief = "Typography is perhaps one of the most important and most visible things on a web page. Even slightest imperfection can ruin otherwise perfect website. With Kube, you will have perfect typography with ideal spacing, font sizes and proportions, regardless of the exact style or font you choose for your site."
 
 +++
 

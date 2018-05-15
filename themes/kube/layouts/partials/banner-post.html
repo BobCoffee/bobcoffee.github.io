@@ -1,0 +1,8 @@
+<div id="post-box">
+  <div id="hero" class="post-hero">
+    {{ if .Title }}
+    <h1>{{.Title}}</h1> {{ end }} {{ if .Description }}
+    <h3>{{.Description}}</h3> {{ end }}
+    <div class="post-time">{{ partial "post/meta" . }}</div>
+  </div>
+</div>

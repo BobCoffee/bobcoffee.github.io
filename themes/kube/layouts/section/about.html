@@ -1,0 +1,59 @@
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+
+{{ define "main" }}
+
+
+	<div id="main" class="about">
+		<div id="texture" class="cloudy item gutters row">
+		<div class="about-padding col col-5">
+			<img src="https://goo.gl/CYyq9Y">
+			<div class="contact">
+				<h4>{{ .Params.contact }}</h4>
+				<a href="mailto:{{.Site.Params.email}}">{{.Site.Params.email}}</a><br>
+				<a target="_blank" href="https://linkedin.com/in/{{.Site.Params.linkedin}}">Linked In</a><br>
+				<a target="_blank" href="https://instagram.com/{{.Site.Params.Insta}}">Instagram</a><br>
+				<a target="_blank" href="https://500px.com/{{.Site.Params.fivehundredpx}}">500px</a><br>
+			</div>
+		</div>
+
+
+		<div class="about-padding col col-7">
+			<h4>{{ .Title }}</h4>
+			<p>{{ .Description }}</p>
+			<h4>{{ .Params.P1Title }}</h4>
+			<p>{{ .Params.P1 }}</p>
+			<h4>{{ .Params.P2Title }}</h4>
+			<p class="about-subtitle">2015 </p>
+			<p class="about-subtitle"> PREVIEW NIGHT COMMITTEE </p>
+			<p class="italic">Emily Carr University of Art & Design</p>
+			<p class="about-space">
+				Organised, managed and MC’ed a Speaker Night for over 175 graduating students to learn
+				more about career opportunities. We had a variety of speakers present including Microsoft and Rethink.
+			</p>
+			<p class="about-subtitle">2015 </p>
+			<p class="about-subtitle"> STARTUP WEEKEND PRINCE GEORGE </p>
+			<p class="italic">Emily Carr University of Art & Design</p>
+			<p class="about-space">
+				Selected by faculty and funded to attend the startup weekend in Prince George British Columbia.
+			</p>
+			<p class="about-subtitle">2014 </p>
+			<p class="about-subtitle"> LOCAL WISDOM SYMPOSIUM </p>
+			<p class="italic">London, England</p>
+			<p class="about-space">
+				Project selected to be a part of the Local Wisdom Symposium held at the University of the Arts, London.
+			</p>
+			<p class="about-subtitle">2014 </p>
+			<p class="about-subtitle"> CYKEL EXHIBITION </p>
+			<p class="italic">Stockholm, Sweden</p>
+			<p class="about-space">
+				Project designs were selected to be part of a two week long segment of the Cykel Exhibition at Stockholm’s Architecture and Design Museum.
+			</p>
+		</div>
+	</div>
+</div>
+
+{{end}}
+{{ define "footer" }}
+  {{ partial "footer" . }}
+{{ end }}

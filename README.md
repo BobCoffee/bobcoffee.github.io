@@ -1,2 +1,0 @@
-# bobcoffee.github.io
-# bobcoffee

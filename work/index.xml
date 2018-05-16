@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working on Bob Coffee</title>
+    <link>/work/</link>
+    <description>Recent content in Working on Bob Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 16:42:26 +0100</lastBuildDate>
+    
+	<atom:link href="/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Health&amp;</title>
+      <link>/work/healthand/</link>
+      <pubDate>Sat, 10 Feb 2018 16:42:26 +0100</pubDate>
+      
+      <guid>/work/healthand/</guid>
+      <description>Working a seven week contract with Health&amp;amp; my work includes user experience and interface of the app, creating brand assets, designing the responsive homepage and responsive email campaigns.</description>
+    </item>
+    
+    <item>
+      <title>Mentionmapp</title>
+      <link>/work/mentionmapp/</link>
+      <pubDate>Mon, 10 Apr 2017 16:42:26 +0100</pubDate>
+      
+      <guid>/work/mentionmapp/</guid>
+      <description>I was responsible for building the Mentionmapp brand, redesigning the homepage, app and interface design and addressing the usability of the app. The design of the brand needed to feel approachable and friendly as well as analytical and smart. The app was previously built in Flash and is now updated to HTML5. Usability of the new app was crucial with a visual and complex tool, the use of colour was important to help guide the user.</description>
+    </item>
+    
+    <item>
+      <title>Spacelist</title>
+      <link>/work/spacelist/</link>
+      <pubDate>Wed, 10 Jan 2018 16:42:50 +0100</pubDate>
+      
+      <guid>/work/spacelist/</guid>
+      <description>I began work with Spacelist as a part of a collaboration between GrowLab (a Vancouver based startup accelerator) and Emily Carr University to inject design thinking and process into startups at GrowLab. I worked with Spacelist to create a cohesive email strategy and campaign to foster a close relationship with our users. By the end of my semester at GrowLab. This successful project allowed me to come on as their UX designer to deliver high caliber work across their entire site.</description>
+    </item>
+    
+    <item>
+      <title>Cedric Bomford&#39;s - Deadhead</title>
+      <link>/work/deadhead/</link>
+      <pubDate>Wed, 10 Jan 2018 16:42:50 +0100</pubDate>
+      
+      <guid>/work/deadhead/</guid>
+      <description>My worked consisted of photo documentation, photo editing and film processing, archival and experimental research as well as assisting art direction and even art contsruction. Working for Bomford had opened my eyes to the art practice and was fascinating to be apart of a creative process that was rather more humanistic and fluid then design. When I was brought into the project, Deadhead had already been under construction for a year and the centerpiece, affectionately named the beercan, had been mostly constructed.</description>
+    </item>
+    
+  </channel>
+</rss>

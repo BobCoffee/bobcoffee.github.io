@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cvxvcxvcx on Bob Coffee</title>
+    <link>/categories/cvxvcxvcx/</link>
+    <description>Recent content in Cvxvcxvcx on Bob Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Mar 2018 21:02:08 +1100</lastBuildDate>
+    
+	<atom:link href="/categories/cvxvcxvcx/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Designing Addiction: Our moral obligation to users</title>
+      <link>/journal/voxreport/</link>
+      <pubDate>Thu, 22 Mar 2018 21:02:08 +1100</pubDate>
+      
+      <guid>/journal/voxreport/</guid>
+      <description>I find this to be a very interesting topic, being a user experience designer. But, I feel stuck between two sides here. One could argue that users need to take control of their digital habits and prevent passive obedience to their phones. Another could say that it is the fault of software companies and startups striving to retain that beautiful metric of “engagement”. Recently, I had a meeting with my design team discussing focus and goal setting.</description>
+    </item>
+    
+  </channel>
+</rss>

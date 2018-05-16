@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal on Bob Coffee</title>
+    <link>/journal/</link>
+    <description>Recent content in Journal on Bob Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Mar 2018 21:02:08 +1100</lastBuildDate>
+    
+	<atom:link href="/journal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Designing Addiction: Our moral obligation to users</title>
+      <link>/journal/voxreport/</link>
+      <pubDate>Thu, 22 Mar 2018 21:02:08 +1100</pubDate>
+      
+      <guid>/journal/voxreport/</guid>
+      <description>I find this to be a very interesting topic, being a user experience designer. But, I feel stuck between two sides here. One could argue that users need to take control of their digital habits and prevent passive obedience to their phones. Another could say that it is the fault of software companies and startups striving to retain that beautiful metric of “engagement”. Recently, I had a meeting with my design team discussing focus and goal setting.</description>
+    </item>
+    
+    <item>
+      <title>Deadhead</title>
+      <link>/journal/deadhead/</link>
+      <pubDate>Wed, 10 Jan 2018 16:42:50 +0100</pubDate>
+      
+      <guid>/journal/deadhead/</guid>
+      <description>My worked consisted of photo documentation, photo editing and film processing, archival and experimental research as well as assisting art direction and even art contsruction. Working for Bomford had opened my eyes to the art practice and was fascinating to be apart of a creative process that was rather more humanistic and fluid then design. When I was brought into the project, Deadhead had already been under construction for a year and the centerpiece, affectionately named the beercan, had been mostly constructed.</description>
+    </item>
+    
+    <item>
+      <title>Solidwood Lamp</title>
+      <link>/journal/solidwood-lamp/</link>
+      <pubDate>Mon, 10 Apr 2017 16:41:34 +0100</pubDate>
+      
+      <guid>/journal/solidwood-lamp/</guid>
+      <description>The objective of this project was to design a home object based on an essay from Sherry Turkle’s book, Evocative Objects. This process began with the short essay The Axe Head by David Mitten. Inspired by the description of an axe chopping into wood, The Solidwood Lamp was designed to transition from its natural form at the base to a man-made aesthetic with the bulb. This play between the organic and the manmade forms expresses the relationship between the origins of the material from which the lamp is made and its function.</description>
+    </item>
+    
+    <item>
+      <title>Large Format Photography</title>
+      <link>/journal/lrg-frmt/</link>
+      <pubDate>Sun, 02 Apr 2017 21:56:55 +0100</pubDate>
+      
+      <guid>/journal/lrg-frmt/</guid>
+      <description>I had the pleasure to work with a large format camera extensively at Emily Carr University and with Artist Cerdic Bomford. This tempermental device is time consuming, but always yields interesting results.</description>
+    </item>
+    
+    <item>
+      <title>What to do with a single sheet of plywood</title>
+      <link>/journal/plywood-table/</link>
+      <pubDate>Sun, 02 Apr 2017 21:56:55 +0100</pubDate>
+      
+      <guid>/journal/plywood-table/</guid>
+      <description>The challenge of this project was to design a table from a single sheet of 60x60 ¾ inch birch plywood with minimal waste.kept the form of the table very simple with clean lines and aesthetically modern. One of the greatest features is the laminated legs, which allows the table to have a unique form and remain very stable. From cutlist to assembly the table took, in all, five hours to build.</description>
+    </item>
+    
+  </channel>
+</rss>
